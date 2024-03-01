@@ -1,0 +1,60 @@
+[
+  {
+    "id": 0,
+    "name": "GitHub",
+    "url": "https://github.com/"
+  },
+  { "id": 1, "name": "vercel", "url": "https://vercel.com/" },
+  {
+    "id": 2,
+    "name": "Cloudflare",
+    "url": "https://dash.cloudflare.com/"
+  },
+  {
+    "id": 3,
+    "name": "掘金",
+    "url": "https://juejin.cn/"
+  },
+  {
+    "id": 4,
+    "name": "邮箱",
+    "url": "https://gmail.com/"
+  },
+  {
+    "id": 5,
+    "name": "地图",
+    "url": "https://ditu.amap.com/"
+  },
+  {
+    "id": 6,
+    "name": "图片",
+    "url": "https://www.pexels.com/zh-cn/"
+  },
+  {
+    "id": 7,
+    "name": "云盘",
+    "url": "https://www.aliyundrive.com/drive/"
+  },
+
+  {
+    "id": 8,
+    "name": "翻译",
+    "url": "https://www.deepl.com/zh/translator"
+  },
+
+  {
+    "id": 9,
+    "name": "哔哩哔哩",
+    "url": "https://www.bilibili.com/"
+  },
+  {
+    "id": 10,
+    "name": "虎牙",
+    "url": "https://huya.com/"
+  },
+  {
+    "id": 11,
+    "name": "今日热榜",
+    "url": "https://hot.testcode.icu/"
+  }
+]
